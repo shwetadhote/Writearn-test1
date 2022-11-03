@@ -1,4 +1,4 @@
-import dateFormat from "dateformat";
+import dateFormat from 'dateformat';
 
 const DateFormatData = (date: any) => {
   
